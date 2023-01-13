@@ -27,8 +27,7 @@ can even get the weather forecast. EV-Boost helping you charge into
 your day!
  
 ## Demo
-https://darrelwu.github.io/EV-Boost/
-
+https://michael-alvarado.github.io/EV-Boost/
 
 <img src="./assets/images/website_image.jpg">
 
