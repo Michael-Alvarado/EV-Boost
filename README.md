@@ -2,7 +2,7 @@
  
 ## EV-Boost Webpage
  
-Created a webpage that allows users to search for Electric Vehicle chargers based on zip codes in the Austin area. Users wil enter the zipcode they are in currently in the Austin area and then will be able to view all charging stations within that specific postal code. The technologies used inside the webpage included 3 server APIs (Google, Weather, and OpenCharge), incorporated Bulma CSS, JS, HTML, and finally Github. 
+EV Boost allows users to search for Electric Vehicle chargers based on zip codes in the Austin area. Users will enter a zipcode in the Austin area and then will be able to view all charging stations within that specific postal code. The technologies used inside the webpage included 3 server APIs (Google, Weather, and OpenCharge), incorporated Bulma CSS, JS, HTML, and finally Github.
 
 ## Usage
 This is to allows users of the webpage to view charging stations within their local zipcode through a simple search. 
