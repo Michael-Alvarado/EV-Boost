@@ -2,16 +2,7 @@
  
 ## EV-Boost Webpage
  
-The teams' motivation was to create a webpage that allows users to search for Electric Vehicle chargers based on zip codes in the Austin area. Users wil enter the zipcode they are in currently in the Austin area and then will be able to view all charging stations within that specific postal code. The technologies used inside the webpage included 3 server APIs (Google, Weather, and OpenCharge), incorporated Bulma CSS, JS, HTML, and finally Github. In order to accomplish this goal the following problems must have been solved:
- 
- 
-* The webpage must be deployed on Github Pages
-* The CSS Framework must be other than Bootstrap
-* The webpage must be interactive and accept and respond to user input
-* The webpage must utilize local storage
-* The webpage must have a polished UI
-* The webpage must be response and not use alerts, confirms, or prompts
-* The webpage must adapt to different viewports
+Created a webpage that allows users to search for Electric Vehicle chargers based on zip codes in the Austin area. Users wil enter the zipcode they are in currently in the Austin area and then will be able to view all charging stations within that specific postal code. The technologies used inside the webpage included 3 server APIs (Google, Weather, and OpenCharge), incorporated Bulma CSS, JS, HTML, and finally Github. 
 
 ## Usage
 This is to allows users of the webpage to view charging stations within their local zipcode through a simple search. 
